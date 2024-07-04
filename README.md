@@ -45,8 +45,10 @@ I cannot like the post of somebody else, i can only like my own posts which make
 Any replies to a reply above the first nested reply (e.g: above "1st reply to a commment") doesn't appear until I refresh the page which is annoying, once again I do not know how to fix that. The reply counter on any reply above "level 1" doesn't update until I refresh as well.
 
 future features I want to add: 
-connecting to imdb api or any other film database api
+connecting to imdb api or any other film database api.
+
 Add a movie rating system and integrate that in the posts.
+
 the current website is simply a blog dedicated to cinema. 
 
 

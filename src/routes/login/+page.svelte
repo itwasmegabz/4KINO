@@ -1,5 +1,6 @@
 <script>
   import { supabase } from '../../lib/supabaseClient';
+  import { getURL } from '$lib/helpers';
 
   let email = '';
   let error = '';
